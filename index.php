@@ -324,7 +324,7 @@ var _hmt = _hmt || [];
       
 		<li class="weixin"><img src="images/qrcode.jpg" width="96" alt="官方微信" /></li>
 		
-		<li><a href="/discuz/qun/qr.png"><img src="images/weixin.png" width="96"/></a></li>
+		<li><a href="qun.php"><img src="images/weixin.png" width="96"/></a></li>
 		
 		
       </ul>
